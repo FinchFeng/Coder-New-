@@ -13,6 +13,7 @@ News for coders
 1.标题❌title<br>
 2.url❌url<br>
 3.图片url❌imageURL<br>
+4.分类❌ category
 
 
 ### 接口2:<br>
