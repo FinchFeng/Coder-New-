@@ -7,7 +7,7 @@ News for coders
 输入参数：<br>
 1.分类名称数组（多个）❌ categoryArray<br>
 2.获取资源个数❌infoAmount<br>
-3.已读信息（两个数组）❌ readInfo<br>
+3.对应分类的队首❌ queueHeadArray<br>
 
 返回数据(信息数组⚠️)：<br>
 1.标题❌title<br>
@@ -17,11 +17,21 @@ News for coders
 
 ### 接口2:<br>
 输入参数：<br>
-1.用户信息❌ id <br>
+1.分类名称❌ categoryArray <br>
 
 返回信息：<br>
-1.初始化新用户或长时间未登录用户已读信息（两个数组）❌ readInfo<br>
+1.分类名称❌ categoryArray <br>
+2.初始化对应分类的队首❌ queueHeadArray<br>
 
+<br><br><br>
+## 数据模型设计
+
+### 信息
+1.标题❌title<br>
+2.url❌url<br>
+3.图片url❌imageURL<br>
+4.赞数❌likeAmount<br>
+5.标签❌tags<br>
 
 <br><br><br>
 
