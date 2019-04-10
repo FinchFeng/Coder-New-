@@ -22,3 +22,14 @@ News for coders
 返回信息：<br>
 1.初始化新用户或长时间未登录用户已读信息（两个数组）❌ readInfo<br>
 
+
+<br><br><br>
+
+## 设计有关
+
+### 设计文档
+字体:20px <br>
+颜色以图片为准<br>
+
+### 设计原型图⬇️
+<img src ="https://raw.githubusercontent.com/FinchFeng/Coder-News-PaperWork/master/设计原型图/designImage.png">
