@@ -5,7 +5,9 @@ News for coders
 
 ### Swift
 https://medium.com/tag/swift
+<br>
 已爬
+<br>
 https://www.raywenderlich.com/ios <br>
 https://www.appcoda.com/tutorials/ios/
 <br>
@@ -48,7 +50,9 @@ https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions
 <br>
 已爬
 <br>
-###  C/C++ 
+<br>
+### C/C++ 
+<br>
 <br>
 已爬
 <br>
@@ -69,6 +73,7 @@ https://medium.com/tag/javascript
 <br>
 已爬
 <br>
+
 ### 机器学习
 <br>
 已爬
