@@ -5,7 +5,7 @@ News for coders
 
 ### Swift
 https://medium.com/tag/swift
-#### 已爬
+已爬
 https://www.raywenderlich.com/ios <br>
 https://www.appcoda.com/tutorials/ios/
 <br>
@@ -32,38 +32,55 @@ https://blog.overops.com/
 <br>
 https://medium.com/tag/java
 <br>
-#### 已爬 
+已爬 
 ### Android
 <br>
 https://android-arsenal.com/?sort=updated
 <br>
 https://medium.com/tag/android
 <br>
-#### 已爬
+已爬
+<br>
 ### 后端开发
 https://www.programcreek.com/
 <br>
 https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions
 <br>
-#### 已爬
+已爬
+<br>
 ###  C/C++ 
-#### 已爬
+<br>
+已爬
+<br>
 ### Python
-#### 已爬
+<br>
+已爬
+<br>
 ### JavaScript
 <br>
 https://medium.com/tag/javascript
-#### 已爬
+已爬
+<br>
 ### 大数据处理
-#### 已爬
+<br>
+已爬
+<br>
 ### 人工智能
-#### 已爬
+<br>
+已爬
+<br>
 ### 机器学习
-#### 已爬
+<br>
+已爬
+<br>
 ### 网页开发
-#### 已爬
+<br>
+已爬
+<br>
 ### 网络安全
-#### 已爬
+<br>
+已爬
+<br>
 
 
 
