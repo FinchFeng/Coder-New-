@@ -1,6 +1,47 @@
 # Coder-News-PaperWork
 News for coders
 
+## 爬虫目标网站
+
+### Swift
+https://medium.com/tag/swift
+#### 已爬
+https://www.raywenderlich.com/ios <br>
+https://www.appcoda.com/tutorials/ios/
+<br>
+https://www.hackingwithswift.com/articles
+<br>
+https://swift.org/blog/
+<br>
+https://github.com/trending/swift?since=daily
+<br>
+https://nshipster.com
+<br>
+<br>
+### Java
+#### 已爬 
+
+###  C/C++ <br>
+#### 已爬
+### Python
+#### 已爬
+### JavaScript
+#### 已爬
+### Android
+#### 已爬
+### 后端开发
+#### 已爬
+### 大数据处理
+#### 已爬
+### 人工智能
+#### 已爬
+### 机器学习
+#### 已爬
+### 网页开发
+#### 已爬
+### 网络安全
+#### 已爬
+
 ## 第一次迭代后端接口:
 ❌之后的是JSON Key<br>
 ### 接口1:<br>
