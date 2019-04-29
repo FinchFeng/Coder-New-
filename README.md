@@ -35,6 +35,8 @@ https://blog.overops.com/
 <br>
 https://medium.com/tag/java
 <br>
+https://medium.com/tag/java
+<br>
 已爬
 <br>
 
@@ -58,6 +60,7 @@ https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions
 
 ### C/C++
 <br>
+https://medium.com/tag/c-programming/archive
 <br>
 已爬
 <br>
