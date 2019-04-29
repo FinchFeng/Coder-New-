@@ -19,17 +19,40 @@ https://nshipster.com
 <br>
 <br>
 ### Java
+<br>
+https://www.javaworld.com/
+<br>
+https://developer.ibm.com/technologies/java/
+<br>
+http://www.importnew.com/all-posts
+<br>
+https://jrebel.com/rebellabs/
+<br>
+https://blog.overops.com/
+<br>
+https://medium.com/tag/java
+<br>
 #### 已爬 
-
-###  C/C++ <br>
+### Android
+<br>
+https://android-arsenal.com/?sort=updated
+<br>
+https://medium.com/tag/android
+<br>
+#### 已爬
+### 后端开发
+https://www.programcreek.com/
+<br>
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions
+<br>
+#### 已爬
+###  C/C++ 
 #### 已爬
 ### Python
 #### 已爬
 ### JavaScript
-#### 已爬
-### Android
-#### 已爬
-### 后端开发
+<br>
+https://medium.com/tag/javascript
 #### 已爬
 ### 大数据处理
 #### 已爬
@@ -42,6 +65,11 @@ https://nshipster.com
 ### 网络安全
 #### 已爬
 
+
+
+<br>
+<br>
+<br>
 ## 第一次迭代后端接口:
 ❌之后的是JSON Key<br>
 ### 接口1:<br>
