@@ -23,12 +23,6 @@ https://nshipster.com
 
 ### Java
 <br>
-https://www.javaworld.com/
-<br>
-https://developer.ibm.com/technologies/java/
-<br>
-http://www.importnew.com/all-posts
-<br>
 https://jrebel.com/rebellabs/
 <br>
 https://blog.overops.com/
@@ -38,6 +32,12 @@ https://medium.com/tag/java
 https://medium.com/tag/java
 <br>
 已爬
+<br>
+https://www.javaworld.com/
+<br>
+https://developer.ibm.com/technologies/java/
+<br>
+http://www.importnew.com/all-posts
 <br>
 
 ### Android
