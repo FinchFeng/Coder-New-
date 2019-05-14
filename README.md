@@ -4,7 +4,7 @@ News for coders
 ## 爬虫目标网站
 
 ### Swift
-https://medium.com/tag/swift
+https://medium.com/tag/swift(国内被墙）
 <br>
 已爬
 <br>
@@ -23,7 +23,7 @@ https://nshipster.com
 
 ### Java
 <br>
-https://medium.com/tag/java
+https://medium.com/tag/java（国内被墙）
 <br>
 已爬
 <br>
