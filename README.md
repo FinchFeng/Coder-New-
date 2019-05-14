@@ -23,15 +23,13 @@ https://nshipster.com
 
 ### Java
 <br>
-https://jrebel.com/rebellabs/
-<br>
-https://blog.overops.com/
-<br>
-https://medium.com/tag/java
-<br>
 https://medium.com/tag/java
 <br>
 已爬
+<br>
+https://jrebel.com/rebellabs/
+<br>
+https://blog.overops.com/
 <br>
 https://www.javaworld.com/
 <br>
