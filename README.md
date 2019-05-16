@@ -97,9 +97,23 @@ https://medium.com/tag/javascript
 ### 网络安全
 <br>
 已爬
+http://safe.zol.com.cn/more/2_1628.shtml
+https://www.anquanke.com/
 <br>
 
-
+### 科技文章
+<br>
+已爬
+http://www.pcbeta.com/news/
+http://m.igao7.com/category/all
+https://mobile.pconline.com.cn/pry/
+http://www.sohu.com/tag/59740?spm=smpc.ch30.fd-ctag.20.1556018818504jdhznyH
+https://sspai.com/api/v1/articles?offset=0&limit=20&has_tag=1&tag=%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90&include_total=false&type=recommend_to_home
+https://www.ifanr.com/app
+http://www.pcbeta.com/win8tech/
+http://it.sohu.com/882?spm=smpc.ch30.fd-ctag.24.1556018818504jdhz
+https://sspai.com/api/v1/articles?offset=0&limit=20&has_tag=1&tag=%E7%83%AD%E9%97%A8%E6%96%87%E7%AB%A0&include_total=false&type=recommend_to_home
+<br>
 
 <br>
 <br>
