@@ -40,11 +40,11 @@ http://www.importnew.com/all-posts
 
 ### Android
 <br>
-https://android-arsenal.com/?sort=updated
-<br>
 https://medium.com/tag/android
 <br>
 已爬
+<br>
+https://android-arsenal.com/?sort=updated"
 <br>
 
 ### 后端开发
